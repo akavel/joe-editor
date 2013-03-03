@@ -13,10 +13,29 @@ import::
 	hg-fast-export
 
 
-From website
+Compilation instructions
+-------------------------
+
+To compile joe::
+
+	./autojoe
+
+Then::
+
+	./configure
+
+And build it::
+
+	make
+
+And finally to install (optional)::
+
+	make install
+
+Description
 --------------
 
-http://joe-editor.sourceforge.net/
+From: http://joe-editor.sourceforge.net/
 
 JOE is a full featured terminal-based screen editor which is distributed
 under the GNU General Public License (GPL).  JOE has been around since 1988
